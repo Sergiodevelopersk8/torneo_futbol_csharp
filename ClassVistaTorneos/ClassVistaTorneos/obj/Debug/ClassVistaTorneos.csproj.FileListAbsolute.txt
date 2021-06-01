@@ -1,0 +1,33 @@
+C:\Users\Phenom01\source\repos\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.dll
+C:\Users\Phenom01\source\repos\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.pdb
+C:\Users\Phenom01\source\repos\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.csprojAssemblyReference.cache
+C:\Users\Phenom01\source\repos\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.csproj.CoreCompileInputs.cache
+C:\Users\Phenom01\source\repos\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.dll
+C:\Users\Phenom01\source\repos\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.pdb
+C:\Users\Phenom01\Desktop\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.dll
+C:\Users\Phenom01\Desktop\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.pdb
+C:\Users\Phenom01\Desktop\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.csproj.CoreCompileInputs.cache
+C:\Users\Phenom01\Desktop\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.dll
+C:\Users\Phenom01\Desktop\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.pdb
+G:\utp\Desarrollo de aplicaciones\TORNEO\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.dll
+G:\utp\Desarrollo de aplicaciones\TORNEO\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.pdb
+G:\utp\Desarrollo de aplicaciones\TORNEO\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.csproj.CoreCompileInputs.cache
+G:\utp\Desarrollo de aplicaciones\TORNEO\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.dll
+G:\utp\Desarrollo de aplicaciones\TORNEO\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.pdb
+E:\TORNEO - copia\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.dll
+E:\TORNEO - copia\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.pdb
+E:\TORNEO - copia\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.csprojAssemblyReference.cache
+E:\TORNEO - copia\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.csproj.CoreCompileInputs.cache
+E:\TORNEO - copia\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.dll
+E:\TORNEO - copia\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.pdb
+D:\TORNEO - copia - copia\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.dll
+D:\TORNEO - copia - copia\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.pdb
+D:\TORNEO - copia - copia\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.csproj.CoreCompileInputs.cache
+D:\TORNEO - copia - copia\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.dll
+D:\TORNEO - copia - copia\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.pdb
+D:\TORNEO - copia - copia - copia\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.dll
+D:\TORNEO - copia - copia - copia\ClassVistaTorneos\ClassVistaTorneos\bin\Debug\ClassVistaTorneos.pdb
+D:\TORNEO - copia - copia - copia\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.csproj.CoreCompileInputs.cache
+D:\TORNEO - copia - copia - copia\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.dll
+D:\TORNEO - copia - copia - copia\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.pdb
+D:\TORNEO - copia - copia - copia\ClassVistaTorneos\ClassVistaTorneos\obj\Debug\ClassVistaTorneos.csprojAssemblyReference.cache

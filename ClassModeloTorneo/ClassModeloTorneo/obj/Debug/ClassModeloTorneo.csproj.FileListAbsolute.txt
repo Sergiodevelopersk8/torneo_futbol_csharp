@@ -1,0 +1,38 @@
+C:\Users\Phenom01\source\repos\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.dll
+C:\Users\Phenom01\source\repos\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.pdb
+C:\Users\Phenom01\source\repos\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.csprojAssemblyReference.cache
+C:\Users\Phenom01\source\repos\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.csproj.CoreCompileInputs.cache
+C:\Users\Phenom01\source\repos\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.dll
+C:\Users\Phenom01\source\repos\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.pdb
+C:\Users\Phenom01\Desktop\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.dll
+C:\Users\Phenom01\Desktop\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.pdb
+C:\Users\Phenom01\Desktop\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.csproj.CoreCompileInputs.cache
+C:\Users\Phenom01\Desktop\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.dll
+C:\Users\Phenom01\Desktop\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.pdb
+G:\utp\Desarrollo de aplicaciones\TORNEO\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.dll
+G:\utp\Desarrollo de aplicaciones\TORNEO\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.pdb
+G:\utp\Desarrollo de aplicaciones\TORNEO\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.csproj.CoreCompileInputs.cache
+G:\utp\Desarrollo de aplicaciones\TORNEO\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.dll
+G:\utp\Desarrollo de aplicaciones\TORNEO\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.pdb
+E:\TORNEO - copia\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.dll
+E:\TORNEO - copia\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.pdb
+E:\TORNEO - copia\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.csproj.CoreCompileInputs.cache
+E:\TORNEO - copia\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.dll
+E:\TORNEO - copia\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.pdb
+E:\TORNEO - copia\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.csprojAssemblyReference.cache
+D:\TORNEO - copia - copia\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.csproj.CoreCompileInputs.cache
+D:\TORNEO - copia - copia\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.dll
+D:\TORNEO - copia - copia\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.pdb
+D:\TORNEO - copia - copia\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.dll
+D:\TORNEO - copia - copia\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.pdb
+D:\TORNEO - copia - copia - copia\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.dll
+D:\TORNEO - copia - copia - copia\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.pdb
+D:\TORNEO - copia - copia - copia\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.csproj.CoreCompileInputs.cache
+D:\TORNEO - copia - copia - copia\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.dll
+D:\TORNEO - copia - copia - copia\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.pdb
+D:\TORNEO - copia - copia - copia\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.csprojAssemblyReference.cache
+I:\TORNEO - copia - copia - POR FIN\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.dll
+I:\TORNEO - copia - copia - POR FIN\ClassModeloTorneo\ClassModeloTorneo\bin\Debug\ClassModeloTorneo.pdb
+I:\TORNEO - copia - copia - POR FIN\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.csproj.CoreCompileInputs.cache
+I:\TORNEO - copia - copia - POR FIN\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.dll
+I:\TORNEO - copia - copia - POR FIN\ClassModeloTorneo\ClassModeloTorneo\obj\Debug\ClassModeloTorneo.pdb

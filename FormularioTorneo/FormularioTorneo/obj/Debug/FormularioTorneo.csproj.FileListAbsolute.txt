@@ -1,0 +1,73 @@
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\bin\Debug\FormularioTorneo.exe.config
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\bin\Debug\FormularioTorneo.exe
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\bin\Debug\FormularioTorneo.pdb
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.Form1.resources
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.Properties.Resources.resources
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.GenerateResource.cache
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.exe
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.pdb
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\bin\Debug\ClassModeloTorneo.dll
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\bin\Debug\ClassVistaTorneos.dll
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\bin\Debug\ClassModeloTorneo.pdb
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\bin\Debug\ClassVistaTorneos.pdb
+E:\TORNEO - copia (2)\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.csprojResolveAssemblyReference.cache
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\FormularioTorneo.exe.config
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\FormularioTorneo.exe
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\FormularioTorneo.pdb
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\ClassModeloTorneo.dll
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\ClassVistaTorneos.dll
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\ClassModeloTorneo.pdb
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\ClassVistaTorneos.pdb
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.csprojAssemblyReference.cache
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.Form1.resources
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.Properties.Resources.resources
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.GenerateResource.cache
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.CoreCompileInputs.cache
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.CopyComplete
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.exe
+D:\TORNEO - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.pdb
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.csprojAssemblyReference.cache
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.Form1.resources
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.Properties.Resources.resources
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.GenerateResource.cache
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.CoreCompileInputs.cache
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.exe
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.pdb
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\FormularioTorneo.exe.config
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\FormularioTorneo.exe
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\FormularioTorneo.pdb
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\ClassModeloTorneo.dll
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\ClassVistaTorneos.dll
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\ClassModeloTorneo.pdb
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\bin\Debug\ClassVistaTorneos.pdb
+D:\TORNEO - copia - copia - copia\FormularioTorneo - copia\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.CopyComplete
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\FormularioTorneo.exe.config
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\FormularioTorneo.exe
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\FormularioTorneo.pdb
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\ClassModeloTorneo.dll
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\ClassVistaTorneos.dll
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\ClassModeloTorneo.pdb
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\ClassVistaTorneos.pdb
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.csprojResolveAssemblyReference.cache
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.Form1.resources
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.Properties.Resources.resources
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.GenerateResource.cache
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.CoreCompileInputs.cache
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.CopyComplete
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.exe
+I:\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.pdb
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\FormularioTorneo.exe.config
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\FormularioTorneo.exe
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\FormularioTorneo.pdb
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\ClassModeloTorneo.dll
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\ClassVistaTorneos.dll
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\ClassModeloTorneo.pdb
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\bin\Debug\ClassVistaTorneos.pdb
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.csprojAssemblyReference.cache
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.Form1.resources
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.Properties.Resources.resources
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.GenerateResource.cache
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.CoreCompileInputs.cache
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.csproj.CopyComplete
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.exe
+D:\Desarrollo_Aplicaciones_II\TORNEO - copia - copia - POR FIN\FormularioTorneo\FormularioTorneo\obj\Debug\FormularioTorneo.pdb
